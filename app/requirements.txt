@@ -22,7 +22,7 @@ pwquality==1.4.0
 pycairo==1.17.1
 Pygments==2.3.0
 PyGObject==3.30.4
-reportlab==3.4.0
+reportlab==3.5.55
 rpm==4.14.2.1
 scour==0.37
 setproctitle==1.1.10
